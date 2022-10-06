@@ -1,6 +1,5 @@
 # Praktikum-Web
-Pembuatan Repository Web
 
-105220006
+Nama: Robin Kenobi
 
-asede
+NIM: 105220006
